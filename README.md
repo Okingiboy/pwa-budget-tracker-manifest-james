@@ -16,7 +16,7 @@ https://pacific-crag-42922.herokuapp.com
 
 ### App Demo
 
-![](images/budget-tracker.gif)
+
 
 ### Application Functionalities
 
