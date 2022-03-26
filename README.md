@@ -1,4 +1,4 @@
-## Progressive Web Applications (PWA): Budget Tracker
+## Progressive Web Applications (PWA): pwa-budget-tracker-manifest-james
 
 ### Description
 
@@ -6,11 +6,11 @@
 
 ### App Screenshot
 
-![](images/budget-tracker.png)
+![](images/19-pwa-homework-demo-01.png)
 
 ### App Deployed to Heroku
 
-https://budget-tracker-pwa-app.herokuapp.com/
+https://pwa-budget-tracker-manifest-james.herokuapp.com/
 
 ### App Demo
 
