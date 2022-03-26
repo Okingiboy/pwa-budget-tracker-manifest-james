@@ -1,6 +1,6 @@
 {
-  "name": "Budget-Tracker",
-  "short_name": "Budget-Tracker",
+  "name": "pwa-budget-tracker-manifest-james",
+  "short_name": "pwa-budget-tracker-manifest-james",
   "icons": [
     {
       "src": "icons/icon-512x512.png",
